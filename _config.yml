@@ -4,25 +4,25 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Personal blog"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+  Tech stuff
 
-email: a-mail@mail.mail
+email: idadiani88@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/cover.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Irakli Dadiani'
+author: 'Irakli Dadiani'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://github.com/ikakus" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
