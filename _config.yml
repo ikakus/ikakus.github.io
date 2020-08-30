@@ -4,9 +4,8 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Build things"
+title: "Let's build"
 description: > # this means to ignore newlines until "email:"
-  and tech stuff
 
 email: idadiani88@gmail.com
 #blog logo
